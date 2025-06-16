@@ -1,0 +1,14 @@
+# Ignorar todos los archivos .txt
+*.txt
+
+# Ignorar la carpeta de MkDocs build
+/site/
+_build/
+
+# Ignorar cachés de Python
+__pycache__/
+*.pyc
+
+# Ignorar archivos temporales
+*.log
+.DS_Store
